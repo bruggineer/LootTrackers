@@ -1,0 +1,28 @@
+#tableHeader{
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#tableCell{
+    font-size: 15px;
+}
+
+#addBtn, #getGame, #clearSearch{   
+    background-color:#C46000;
+    box-shadow: 1px 1px 1px black;
+}
+
+#searchInput, #getGame, #clearSearch{
+    margin: 10px
+}
+
+#gameSearchForm, #resultsTable {
+    padding-bottom: 20px;
+}
+
+#searchInputContainer {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+

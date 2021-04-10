@@ -1,0 +1,19 @@
+#budgetSubmit{
+    background-color: #c46000;
+    box-shadow: 1px 1px 1px black;
+}
+
+#budgetInput, #budgetSubmit{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#searchForm{
+    padding: 21px;
+}
+
+h1 {
+    padding-top: 20px;
+}
+

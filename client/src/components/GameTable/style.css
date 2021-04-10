@@ -1,0 +1,35 @@
+#tableHeader{
+    font-weight: 600;
+    font-size: 21px;
+}
+
+#tableCell{
+    font-size: 15px;
+}
+
+#tableCell #purchaseBtn,  #tableCell #removeBtn   {
+    align-content: center;
+    margin: "auto";
+}
+
+#removeBtn, #purchaseBtn {
+    box-shadow: 1px 1px 1px black;
+}
+
+#h1 {
+    padding-bottom: 10px;
+    font-size: 24px;
+    font-weight: 800;
+    width: 100%;
+}
+
+#h2 {
+    padding-bottom: 20px;
+    font-size: 21px;
+    font-weight: 800;
+    width: 100%;
+}
+
+h3 {
+    padding-bottom: 20px;
+}
